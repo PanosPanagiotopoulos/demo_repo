@@ -8,6 +8,9 @@ public class Main {
         }
 
         int[] arr = {1 , 2, 3};
+        for (int num : arr) {
+            // Do something
+        }
         // 123
         // Neo branch
     }
