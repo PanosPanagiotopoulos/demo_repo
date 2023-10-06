@@ -7,6 +7,7 @@ public class Main {
             System.out.println("MAKARONIAAAAAAAAAAAAAAA");
         }
 
+        int[] arr = {1 , 2, 3};
         // 123
         // Neo branch
     }
